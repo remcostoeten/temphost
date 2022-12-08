@@ -3923,14 +3923,6 @@ span.category-stock {
   .page-wrapper .category__filters {
     display: none;
   }
-  .page-wrapper .category .btn--cart {
-    margin-top: 8px;
-  }
-}
-@media (min-width: 640px) and (max-width: 768px) {
-  .page-wrapper .category .btn--cart {
-    margin-top: 8px;
-  }
 }
 .category {
   display: flex;
@@ -10432,7 +10424,7 @@ h4 {
 
 .select2-container--default .select2-selection--single {
   background-color: #fff;
-  border: 1px solid #c7d2d9;
+S  border: 1px solid #c7d2d9;
   border-radius: 4px;
 }
 @media (min-width: 0px) and (max-width: 767px) {
