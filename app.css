@@ -3669,7 +3669,7 @@ span.category-stock {
   flex: 1;
   border: 1px solid #c7d2d9;
   border-radius: 4px;
-  padding-bottom: 24px;
+  padding-bottom: 20px;
 }
 .tile:hover {
   border-color: #003247;
@@ -3685,7 +3685,7 @@ span.category-stock {
   max-height: 232px;
 }
 .tile__info {
-  padding: 0 24px;
+  padding: 0 16px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -3694,6 +3694,8 @@ span.category-stock {
 .tile__top {
   display: flex;
   flex-direction: column;
+  margin-left: 4px;
+  margin-right: 4px;
 }
 .tile__brand {
   font-size: 12px;
@@ -3731,8 +3733,7 @@ span.category-stock {
   letter-spacing: -0.1px;
   line-height: 18px;
   font-weight: 600;
-  margin-top: 2px;
-  margin-bottom: 8px;
+  margin: 2px 4px 8px 4px;
 }
 .tile__stock.in-stock {
   color: #0eae0e;
@@ -3744,7 +3745,9 @@ span.category-stock {
   color: #d0021b;
 }
 .tile__price {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
+  margin-left: 4px;
+  margin-right: 4px;
 }
 .tile__price .normal-price {
   font-size: 23px;
@@ -3795,6 +3798,7 @@ span.category-stock {
   min-width: 60px;
   border: none;
   justify-content: center;
+  margin: 4px;
 }
 .tile .btn--cart:hover {
   background-color: #003247;
@@ -3831,7 +3835,7 @@ span.category-stock {
   text-align: center;
 }
 .tile .qty-select {
-  margin-right: 8px;
+  padding: 4px;
 }
 .tile .qty-select form {
   padding-right: 8px;
@@ -3887,7 +3891,7 @@ span.category-stock {
   display: flex;
   flex-direction: column;
   margin-top: 16px;
-  margin-bottom: 8px;
+  padding: 4px;
 }
 .tile__attribute-selector select {
   border: 1px solid #c7d2d9;
@@ -3922,6 +3926,14 @@ span.category-stock {
   }
   .page-wrapper .category__filters {
     display: none;
+  }
+  .page-wrapper .category .btn--cart {
+    margin-top: 8px;
+  }
+}
+@media (min-width: 640px) and (max-width: 768px) {
+  .page-wrapper .category .btn--cart {
+    margin-top: 8px;
   }
 }
 .category {
@@ -10424,7 +10436,7 @@ h4 {
 
 .select2-container--default .select2-selection--single {
   background-color: #fff;
-S  border: 1px solid #c7d2d9;
+  border: 1px solid #c7d2d9;
   border-radius: 4px;
 }
 @media (min-width: 0px) and (max-width: 767px) {
