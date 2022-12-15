@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/16/icon-check-round-green-16</title>
+    <g id="Icons/16/icon-check-round-green-16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="circle" fill="#0EAE0E" fill-rule="nonzero" cx="8" cy="8" r="8"></circle>
+        <path d="M5.53512918,6.96749799 C5.06578766,6.4892774 4.31393717,6.49113977 3.84908253,6.9647886 C3.38098701,7.44173962 3.3854184,8.20758695 3.85174161,8.68273213 L6.31005571,11.1418865 C6.54615919,11.3824567 6.8502279,11.5004624 7.15432417,11.4999986 C7.46064738,11.4998487 7.76411398,11.3809731 7.99610236,11.1445959 L12.481523,6.57431942 C12.9500086,6.09697095 12.9499905,5.32905291 12.4851359,4.85540408 C12.0170404,4.37845306 11.2649854,4.38340338 10.7981355,4.85908528 L7.15440857,8.57174471 L5.53512918,6.96749799 Z" id="icon" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
