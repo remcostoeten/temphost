@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/48/icon-betalen-blue-48</title>
+    <g id="Icons/48/icon-betalen-blue-48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M45,14 L45,12.2820513 C45,10.4694244 43.5305756,9 41.7179487,9 L6.28205128,9 C4.46942441,9 3,10.4694244 3,12.2820513 L3,14 L45,14 Z M45,19 L45,35.7179487 C45,37.5305756 43.5305756,39 41.7179487,39 L6.28205128,39 C4.46942441,39 3,37.5305756 3,35.7179487 L3,19 L45,19 Z M7.5,33 C6.67157288,33 6,33.6715729 6,34.5 C6,35.3284271 6.67157288,36 7.5,36 L15.5,36 C16.3284271,36 17,35.3284271 17,34.5 C17,33.6715729 16.3284271,33 15.5,33 L7.5,33 Z" id="icon" fill="#0092D2" fill-rule="nonzero"></path>
+    </g>
+</svg>

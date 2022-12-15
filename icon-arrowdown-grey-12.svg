@@ -1,0 +1,9 @@
+<svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    icon-arrowdown-grey-12
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h12v12H0z"/>
+    <path fill="#5E7B8D" fill-rule="nonzero" d="M10 2l2 2-6 6-6-6 2-2 4 4"/>
+  </g>
+</svg>

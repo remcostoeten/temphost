@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/32/icon-addtocart-white-32</title>
+    <g id="Icons/32/icon-addtocart-white-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,9 L17,4 C17,3.45569739 17.4496438,3 18,3 L21,3 C21.5464842,3 22,3.4622715 22,4 L22,9 L23.951587,9 C25.0462744,9 25.3284958,9.65095838 24.5851327,10.4505286 L20.8242289,14.3997467 C20.0794391,15.2008515 18.8704696,15.1993169 18.1271065,14.3997467 L14.416316,10.4505286 C13.6715262,9.64942377 13.9520828,9 15.0498617,9 L17,9 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="15" cy="27" r="3"></circle>
+        <circle id="Oval-Copy" fill="#FFFFFF" fill-rule="nonzero" cx="24" cy="27" r="3"></circle>
+        <path d="M11,23 L27.2538336,23 L31.9215916,12.3846154 C32.1373787,11.8748141 31.8924766,11.2893403 31.3745875,11.0769231 C31.2507839,11.0261438 31.1179909,11 30.9838704,11 L29.4379159,11 C28.2187927,11 27.1169714,11.7151906 26.6367352,12.8182421 L24.2062398,18 L14.0475938,18 L8.20542331,5.30845814 C7.53779139,3.90016038 6.10193935,3 4.52318581,3 L2.53966151,3 C1.13704519,3 0,4.11928813 0,5.5 C0,6.88071187 1.13704519,8 2.53966151,8 L4.06345841,8 L11,23 Z" id="Path-9" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

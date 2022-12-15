@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-arrow-right-blue-16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---not-logged-in---empty-cart" transform="translate(-469.000000, -465.000000)">
+            <g id="content" transform="translate(222.000000, 234.000000)">
+                <g id="categories" transform="translate(0.000000, 200.000000)">
+                    <g id="Group-13">
+                        <g id="icon-arrow-right-blue-16" transform="translate(243.000000, 30.000000)">
+                            <rect id="frame" x="0" y="0" width="16" height="16"></rect>
+                            <polygon id="icon" fill="#0092D2" fill-rule="nonzero" points="4 3 6 1 13 8 6 15 4 13 9 8"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
