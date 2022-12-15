@@ -414,11 +414,6 @@
   }
 }
 
-.list .grid-out {
-  position: absolute;
-  z-index: 999;
-  background-color: red;
-}
 .list .grid-out .tile {
   animation: grid-out cubic-bezier(1, -0.28, 0.39, 1.62);
   animation-duration: 1350ms;
@@ -3728,6 +3723,12 @@ span.category-stock {
   --b: var(--background-hover);
 }
 
+@media (min-width: 0px) and (max-width: 767px) {
+  .toolbar {
+    display: flex;
+    flex-direction: column;
+  }
+}
 .category__tiles.list .product-tiles {
   grid-gap: 20px;
   grid-template-columns: repeat(1, 1fr);
@@ -3740,16 +3741,19 @@ span.category-stock {
 }
 .category__tiles.list .product-tiles .tile {
   border-left: 5px solid transparent;
-  border-right: 1px solid #c7d2d9;
-  border-bottom: 1px solid #c7d2d9;
-  border-top: 1px solid #c7d2d9;
   border-radius: 4px;
+  border-top: none;
 }
 .category__tiles.list .product-tiles .tile:first-child .tile__attribute-selector {
   display: none;
 }
+.category__tiles.list .product-tiles .tile:nth-child(2) {
+  border-left: 5px solid #003247;
+  border-radius: 0 0 4px 0;
+}
 .category__tiles.list .product-tiles .tile:hover {
   border-left: 5px solid #003247;
+  border-top: none;
   box-shadow: 0 8px 20px 0 rgba(22, 60, 92, 0.1);
 }
 .category__tiles.list .product-tiles .tile__data {
@@ -3757,6 +3761,7 @@ span.category-stock {
 }
 .category__tiles.list .product-tiles .tile__info {
   flex-direction: row;
+  padding: 0;
 }
 .category__tiles.list .product-tiles .tile__brand {
   padding: 0;
@@ -3766,8 +3771,14 @@ span.category-stock {
   padding-top: 0;
   padding-bottom: 0;
 }
+.category__tiles.list .product-tiles .tile__image {
+  padding: 0;
+  margin-right: 24px;
+}
 .category__tiles.list .product-tiles .tile .img-wrapper {
-  flex: 0 1 autolaat;
+  align-items: center;
+  justify-content: center;
+  flex: 0 1 auto;
   max-width: 172px;
   width: 172px;
 }
@@ -3778,12 +3789,30 @@ span.category-stock {
 }
 .category__tiles.list .product-tiles .tile__stock {
   display: block;
-  margin-top: 10px;
+  margin: 12px 0;
 }
 .category__tiles.list .product-tiles .tile__stock.grid {
   display: none;
 }
 
+@media (min-width: 0px) and (max-width: 767px) {
+  .category__tiles.list .product-tiles .tile__info {
+    flex-direction: column;
+  }
+  .category__tiles.list .product-tiles .tile .btn--cart {
+    margin-top: 4px;
+  }
+}
+@media (min-width: 320px) and (max-width: 479px) {
+  .category__tiles.list .product-tiles .tile__inner {
+    flex-direction: column;
+  }
+}
+@media (max-width: 319px) {
+  .category__tiles.list .product-tiles .tile__inner {
+    flex-direction: column;
+  }
+}
 .product-tiles {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
