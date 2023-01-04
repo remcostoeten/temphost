@@ -1,0 +1,251 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Cecilie",
+                "last": "Kristensen"
+            },
+            "location": {
+                "street": { "number": 5569, "name": "Slåenvej" },
+                "city": "Juelsminde",
+                "state": "Nordjylland",
+                "country": "Denmark",
+                "postcode": 79141,
+                "coordinates": {
+                    "latitude": "-41.3420",
+                    "longitude": "131.3790"
+                },
+                "timezone": {
+                    "offset": "+3:00",
+                    "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+                }
+            },
+            "email": "cecilie.kristensen@example.com",
+            "login": {
+                "uuid": "25188b5a-c3c2-444b-99ab-e3b75e72ec1a",
+                "username": "sadtiger306",
+                "password": "nudes",
+                "salt": "mWissRLJ",
+                "md5": "39720bfcc0bef01a1f958f705e9db51b",
+                "sha1": "2bc254bc3bb42564a28dbcb778d0a761548fb1ca",
+                "sha256": "8226b0bb74703cc03ba47abe2351ba6a45c8ab514b79bcc4dfb6a597a1c2ea81"
+            },
+            "dob": { "date": "1985-02-26T22:23:58.412Z", "age": 37 },
+            "registered": { "date": "2011-11-21T18:15:17.442Z", "age": 11 },
+            "phone": "94187165",
+            "cell": "47395569",
+            "id": { "name": "CPR", "value": "260285-2596" },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/35.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+            },
+            "nat": "DK"
+        },
+        {
+            "gender": "male",
+            "name": { "title": "Mr", "first": "Eugenio", "last": "Sánchez" },
+            "location": {
+                "street": { "number": 1627, "name": "Calle de Atocha" },
+                "city": "Granada",
+                "state": "Ceuta",
+                "country": "Spain",
+                "postcode": 50650,
+                "coordinates": {
+                    "latitude": "1.1129",
+                    "longitude": "-10.1979"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "eugenio.sanchez@example.com",
+            "login": {
+                "uuid": "b6f889e4-8fa4-425d-8265-771a3f6dbe0e",
+                "username": "tinybear293",
+                "password": "7777",
+                "salt": "fQl7zZT4",
+                "md5": "1d71456c589756c7ec2da5853291794d",
+                "sha1": "e319e444dc1781f1bd2cb044811d6827190c6664",
+                "sha256": "da69dbbaa0b3972a7eeb928dcf72a5a4f017df629d97af9f47095844f47360bf"
+            },
+            "dob": { "date": "2000-05-12T06:45:40.557Z", "age": 22 },
+            "registered": { "date": "2020-05-13T06:34:06.540Z", "age": 2 },
+            "phone": "911-319-617",
+            "cell": "612-867-937",
+            "id": { "name": "DNI", "value": "79996467-J" },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/65.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+            },
+            "nat": "ES"
+        },
+        {
+            "gender": "female",
+            "name": { "title": "Mrs", "first": "بیتا", "last": "پارسا" },
+            "location": {
+                "street": { "number": 1739, "name": "میدان فلسطین" },
+                "city": "کاشان",
+                "state": "چهارمحال و بختیاری",
+                "country": "Iran",
+                "postcode": 73236,
+                "coordinates": {
+                    "latitude": "-88.4231",
+                    "longitude": "-102.6341"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "byt.prs@example.com",
+            "login": {
+                "uuid": "fea2242f-a2b2-44ea-bf5b-cffeb7ac69c4",
+                "username": "lazybear599",
+                "password": "holiday",
+                "salt": "TSqosIHu",
+                "md5": "a22d0412ce798730f01b60188afbde12",
+                "sha1": "2809d0ca9f3cf82eb227572cd7cd4abc951e168f",
+                "sha256": "b2af42e4bda24bf107c8c522c063823d6bd3ae8695a44038342476625cbc63f7"
+            },
+            "dob": { "date": "1950-07-06T05:41:01.769Z", "age": 72 },
+            "registered": { "date": "2002-05-31T11:21:24.558Z", "age": 20 },
+            "phone": "047-01658226",
+            "cell": "0921-750-9490",
+            "id": { "name": "", "value": null },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/79.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "female",
+            "name": { "title": "Ms", "first": "Vega", "last": "Håland" },
+            "location": {
+                "street": { "number": 9191, "name": "Alfasetveien" },
+                "city": "Evenskjær",
+                "state": "Finnmark - Finnmárku",
+                "country": "Norway",
+                "postcode": "7449",
+                "coordinates": {
+                    "latitude": "50.9049",
+                    "longitude": "-2.5343"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "vega.haland@example.com",
+            "login": {
+                "uuid": "02cebbbb-4348-4857-b081-0d7b12a8d44b",
+                "username": "tinyswan760",
+                "password": "series",
+                "salt": "IjFePWAp",
+                "md5": "cdcd0566c515ca1259011378c97b76ec",
+                "sha1": "c7e8738fa2e4924561eda5d94e3962d3f34b873b",
+                "sha256": "3781548125a4bc3651752aade0b5a9753dec97e8c9ce690a39b161cf8fe5a509"
+            },
+            "dob": { "date": "1944-11-05T02:52:08.900Z", "age": 78 },
+            "registered": { "date": "2017-11-09T19:21:37.359Z", "age": 5 },
+            "phone": "74763424",
+            "cell": "97331664",
+            "id": { "name": "FN", "value": "05114436889" },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/58.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+            },
+            "nat": "NO"
+        },
+        {
+            "gender": "female",
+            "name": { "title": "Ms", "first": "Rosa", "last": "Mckinney" },
+            "location": {
+                "street": { "number": 8147, "name": "Brown Terrace" },
+                "city": "Warragul",
+                "state": "Northern Territory",
+                "country": "Australia",
+                "postcode": 1594,
+                "coordinates": {
+                    "latitude": "-38.1506",
+                    "longitude": "-135.5781"
+                },
+                "timezone": { "offset": "-9:00", "description": "Alaska" }
+            },
+            "email": "rosa.mckinney@example.com",
+            "login": {
+                "uuid": "c81e7f0b-ef6c-4ce0-a458-281ac63cedb0",
+                "username": "redmouse975",
+                "password": "anthony7",
+                "salt": "cUt7NKe0",
+                "md5": "b1b4a861f58b33f060e59e3c471f2b3e",
+                "sha1": "417407c4966dc6df076166a6716b639e403a1072",
+                "sha256": "a32136c0e2777c75ce60afac1bf3cbd139953f983c9e1ed63fc1419af49c9ee5"
+            },
+            "dob": { "date": "1998-05-23T19:46:07.058Z", "age": 24 },
+            "registered": { "date": "2002-03-21T06:10:00.230Z", "age": 20 },
+            "phone": "03-9538-3394",
+            "cell": "0494-067-259",
+            "id": { "name": "TFN", "value": "165535753" },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/5.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": { "title": "Ms", "first": "Laura", "last": "Mortensen" },
+            "location": {
+                "street": { "number": 3665, "name": "Middelfartvej" },
+                "city": "Noerre Alslev",
+                "state": "Danmark",
+                "country": "Denmark",
+                "postcode": 80786,
+                "coordinates": {
+                    "latitude": "49.5449",
+                    "longitude": "38.0423"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "laura.mortensen@example.com",
+            "login": {
+                "uuid": "d7ba6737-8b56-42a9-b4c0-9d9c1d0f440b",
+                "username": "greengoose361",
+                "password": "dogg",
+                "salt": "vTI0rPXu",
+                "md5": "6bb2390c5b8e6fcddcfaa56971a8bf89",
+                "sha1": "f938ca7fdf9dcc825789302524fdf2137659001b",
+                "sha256": "c952f12cb06263d2db68dfc5ef94553aedd2074c9dc68d6d3b036a697a7d86fd"
+            },
+            "dob": { "date": "1987-10-27T06:28:03.104Z", "age": 35 },
+            "registered": { "date": "2018-06-28T17:37:32.836Z", "age": 4 },
+            "phone": "48107377",
+            "cell": "68598878",
+            "id": { "name": "CPR", "value": "271087-3380" },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/48.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+            },
+            "nat": "DK"
+        }
+    ],
+    "info": {
+        "seed": "0ae738b6fc52c68b",
+        "results": 6,
+        "page": 1,
+        "version": "1.4"
+    }
+}
